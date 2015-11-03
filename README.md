@@ -10,4 +10,4 @@ The project page is http://codemirror.net
 The manual is at http://codemirror.net/doc/manual.html  
 The contributing guidelines are in [CONTRIBUTING.md](https://github.com/marijnh/CodeMirror/blob/master/CONTRIBUTING.md)
 
-#test
+#test - 11/02/2015
